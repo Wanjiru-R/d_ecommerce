@@ -1,1 +1,2 @@
-#a customer relations management system
+a customer relations management system
+django+mysql
